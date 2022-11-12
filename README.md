@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on start ups
-- 📫 How to reach me by DM
+- 📫 You could reach me via DM
 
 <!---
 GulmezData/GulmezData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
